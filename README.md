@@ -8,7 +8,7 @@ I'm a Computer Science graduate passionate about software development, cloud tec
 - 🎓 BS Computer Science Graduate
 - 💻 Interested in Full-Stack Development, Software Engineering, and IT Support
 - 🌱 Currently improving my skills in Java, Spring Boot, React, Node.js, and Cloud Technologies
-- 🔒 Cybersecurity Competition Participant
+- 🔒 Actively joins Hackathons, Capture-The-Flags, and Competitions
 - ☁️ Exploring AWS, Azure, Docker, and DevOps practices
 - 📍 Based in the Philippines
 
