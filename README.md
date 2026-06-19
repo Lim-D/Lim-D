@@ -23,6 +23,8 @@ I'm a Computer Science graduate passionate about software development, cloud tec
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php)
+
 
 ### Software Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
